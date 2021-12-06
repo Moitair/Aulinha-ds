@@ -1,0 +1,31 @@
+body {
+    padding-top: 70px;
+}
+
+@media (max-width: 979px) {
+    body{
+        padding-top: 0px;
+    }
+}
+
+nav{
+    background-image: linear-gradient(to bottom right, #F5342E, #DE371F);
+}
+
+.bottom{
+    background-image: linear-gradient(to bottom right, #F5342E, #DE371F) !important;
+}
+
+i{
+    font-size: 3rem;
+    text-align: center;
+    color: #ffff;
+}
+
+h5{
+text-align: center;
+}
+
+h4{
+    text-align: center;
+}
